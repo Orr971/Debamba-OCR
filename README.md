@@ -1,0 +1,2 @@
+# Debamba-OCR
+OCR tool
